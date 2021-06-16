@@ -3,5 +3,5 @@
 主題：信用卡盜刷偵測.   
 三分鐘短片：<https://youtu.be/SEEAZxlwWvg>  
 會議記錄：<https://hackmd.io/@CharlieCheng/Bkpi2LGoO/edit>. 
-十五分鐘長片：
-投影片：
+十五分鐘長片：<https://www.youtube.com/watch?v=b5nwkPSYBJM>
+書面報告：<<https://drive.google.com/file/d/1f5XTyL4DN86-c20bPRYZkmpcvQal5vUR/view>
